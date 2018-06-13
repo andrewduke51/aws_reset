@@ -30,3 +30,5 @@
 *.vagrant/
 *temp/
 ubuntu-xenial-16.04*
+*.xml
+*.iml
